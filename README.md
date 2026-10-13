@@ -73,7 +73,9 @@ This particular peer-reviewed article attracted me because it contradicted my as
 
 ## Artefact 6: In the news this term - public servants ask for a pause
 
-<img width="1091" height="675" alt="Screenshot 2026-10-14 at 1 06 53 AM" src="https://github.com/user-attachments/assets/705ebfe1-0517-46cc-98b7-eba8ab498114" />
+
+
+<img width="1110" height="829" alt="Screenshot 2026-10-14 at 1 12 20 AM" src="https://github.com/user-attachments/assets/c03398d7-8458-401c-b360-a5631eb4184f" />
 
 
 
