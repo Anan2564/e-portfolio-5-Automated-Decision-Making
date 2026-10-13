@@ -73,7 +73,8 @@ This particular peer-reviewed article attracted me because it contradicted my as
 
 ## Artefact 6: In the news this term - public servants ask for a pause
 
-<img width="1415" height="838" alt="Screenshot 2026-10-14 at 1 04 27 AM" src="https://github.com/user-attachments/assets/64b748f5-7ebc-4eba-a5c6-a4898ac1e82e" />
+<img width="1091" height="675" alt="Screenshot 2026-10-14 at 1 06 53 AM" src="https://github.com/user-attachments/assets/705ebfe1-0517-46cc-98b7-eba8ab498114" />
+
 
 
 https://region.com.au/union-calls-for-immediate-pause-on-complex-automated-decision-making-in-public-service-agencies/996203/
