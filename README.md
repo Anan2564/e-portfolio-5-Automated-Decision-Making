@@ -1,4 +1,3 @@
-<img width="637" height="545" alt="Screenshot 2026-10-14 at 12 54 42 AM" src="https://github.com/user-attachments/assets/a22749e3-7126-40df-ae10-fb3a4b7440b4" />
 # e-portfolio-5-Automated-Decision-Making
 This set of artefacts reflects what I have learned regarding the ethical and social issues involved with Automated Decision-Making (ADM) within government systems.
 
