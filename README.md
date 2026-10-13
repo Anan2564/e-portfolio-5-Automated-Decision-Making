@@ -45,7 +45,9 @@ I chose this video because it puts a human face on ADM. It made me question Act 
 
 ## Artefact 4: A government system in another country - the United Kingdom
 
-<!-- Drag your screenshot of the report page here -->
+
+<img width="1470" height="840" alt="Screenshot 2026-10-14 at 12 58 06 AM" src="https://github.com/user-attachments/assets/03f4c2ac-6607-4e22-b66b-d60a24106afd" />
+
 
 https://www.amnesty.org/en/documents/eur45/9478/2025/en/
 
