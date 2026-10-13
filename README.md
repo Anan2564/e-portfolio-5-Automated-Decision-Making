@@ -5,7 +5,8 @@ Automated Decision Making refers to the use of data, algorithms and/or artificia
 
 ## Artefact 1: What is ADM, and where has it gone wrong?
 
-<!-- Drag your screenshot of the blog post here -->
+<img width="1466" height="885" alt="Screenshot 2026-10-14 at 12 47 07 AM" src="https://github.com/user-attachments/assets/2660bca3-03ab-4702-b665-ff5802884735" />
+
 
 https://cambridgeblog.org/2025/05/robogovt-how-should-we-regulate-automated-government-decision-making/
 
