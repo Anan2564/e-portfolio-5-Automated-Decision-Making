@@ -60,7 +60,8 @@ I chose it for my overseas comparison because it takes a human rights perspectiv
 
 ## Artefact 5: Comparing Australia and China
 
-<!-- Drag your screenshot of the article's first page here -->
+<img width="1181" height="833" alt="Screenshot 2026-10-14 at 1 01 35 AM" src="https://github.com/user-attachments/assets/526e78b9-84f9-417a-9bf9-bff5ade05f8e" />
+
 
 https://openjournals.library.sydney.edu.au/JCTP/article/view/20699
 
