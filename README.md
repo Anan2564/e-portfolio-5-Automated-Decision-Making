@@ -19,7 +19,8 @@ I chose it as my starting point because it shows ADM harm is a global pattern. R
 
 ## Artefact 2: An Australian government system - the Targeted Compliance Framework
 
-<!-- Drag your screenshot of the report cover here -->
+<img width="579" height="769" alt="Screenshot 2026-10-14 at 12 51 24 AM" src="https://github.com/user-attachments/assets/903250d0-38a7-45fa-a371-0caa83e18ef7" />
+
 
 https://www.ombudsman.gov.au/__data/assets/pdf_file/0017/320750/Automation-in-the-Targeted-Compliance-Framework.pdf
 
