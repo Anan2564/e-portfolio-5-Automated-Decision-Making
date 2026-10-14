@@ -15,6 +15,8 @@ https://cambridgeblog.org/2025/05/robogovt-how-should-we-regulate-automated-gove
 This is a recent post in the blog by Cambridge University Press by Yee-Fui Ng (2025) that discusses the use of AI by governments to automate decision-making on citizens. She cites three errors: the Robodebt in Australia where inflated debts were put against over 600,000 citizens; MiDAS system in Michigan that erroneously tagged over 40,000 people with fraud; and the UK Post Office Horizon scandal.
 
 ### Justification on why I chose the artefact
+
+
 I chose it as my starting point because it shows ADM harm is a global pattern. Robodebt and the UK Post Office were our Week 10 case studies (CQUniversity 2026a), and Ng adds the United States. Her argument that these failures came from human choices changed my thinking, because I used to see them as software bugs. It connects to the Australian Computer Society (ACS) Competence value, to 'accept responsibility for your work' (ACS 2014). I cannot blame a system I helped build.
 
 ## Artefact 2: An Australian government system - the Targeted Compliance Framework
@@ -25,9 +27,13 @@ I chose it as my starting point because it shows ADM harm is a global pattern. R
 https://www.ombudsman.gov.au/__data/assets/pdf_file/0017/320750/Automation-in-the-Targeted-Compliance-Framework.pdf
 
 ### Summary of the artefact
+
+
 This Commonwealth Ombudsman (2025) report investigates the Targeted Compliance Framework, an automated system that manages job seekers' income support. In 2022 the law changed so that a human had to consider a person's circumstances before cancelling payments, but the system was not updated. Between April 2022 and July 2024 it automatically cancelled 964 people's payments. The Ombudsman found this was not lawful.
 
 ### Justification on why I chose the artefact
+
+
 I chose it because it happened after the Robodebt Royal Commission, so it tests whether the government really learned. In Week 10 we asked who is responsible when ADM goes wrong (CQUniversity 2026a), and this primary source answers clearly: the agencies, not the software. From a Kantian view, people were treated as a means to efficient administration. It also breaches the ACS Competence value, to know the relevant legislation 'and act accordingly' (ACS 2014). When the law changes, the code must change too.
 
 ## Artefact 3: An Australian government system in use now - the aged care algorithm
@@ -38,9 +44,13 @@ I chose it because it happened after the Robodebt Royal Commission, so it tests 
 https://www.youtube.com/watch?v=TPQZygp96V8
 
 ### Summary of the artefact
+
+
 This ABC News (2026) video focuses on the Integrated Assessment Tool which is an algorithm that has been used since November 2025 for home care funding of senior Australians. The assessor visits the individual concerned while the algorithm determines the funding amount, and staff cannot override it. It follows Graham Crossan, 80, who has advanced motor neurone disease and was denied the highest level of care. An advocate says it has 'the look and feel of the robodebt experience'.
 
 ### Justification on why I chose the artefact
+
+
 I chose this video because it puts a human face on ADM. It made me question Act Utilitarianism: the tool may give consistent decisions for most people, yet the harm to a few is severe. It also fails contestability, one of Australia's AI Ethics Principles from Week 2, because the decision is so hard to challenge (CQUniversity 2026b). Watching it, I felt uneasy that a person's care could depend on a score no human was allowed to change.
 
 ## Artefact 4: A government system in another country - the United Kingdom
@@ -56,7 +66,7 @@ https://www.amnesty.org/en/documents/eur45/9478/2025/en/
 This report by Amnesty International (2025) focuses on the United Kingdom's Department for Work and Pensions, that uses digital technologies and AI algorithms to administer the Universal Credit program and disability benefits. According to Amnesty, the technology made the social security harder to access for disabled individuals, low-income households, and those who lack sufficient digital literacy.
 
 ### Justification on why I chose the artefact
-I chose it for my overseas comparison because it takes a human rights perspective, while my Australian sources focus on whether decisions were lawful. In Week 2 we learned the UK guides AI with flexible principles (CQUniversity 2026b), and this report made me doubt that principles alone protect people. The difference principle of Rawls, based on the Social Contract Theory, stipulates that inequalities have to favor the least advantaged, but that system burdens them the most. This served as a reminder that I am designing for real people.
+I chose it for my overseas comparison because it takes a human rights perspective, while my Australian sources focus on whether decisions were lawful. In Week 2 we learned the UK guides AI with flexible principles (CQUniversity 2026b), and this report made me doubt that principles alone protect people. The difference principle of Rawls, based on the Social Contract Theory, stipulates that inequalities have to favour the least advantaged, but that system burdens them the most. This served as a reminder that I am designing for real people.
 
 ## Artefact 5: Comparing Australia and China
 
@@ -66,9 +76,13 @@ I chose it for my overseas comparison because it takes a human rights perspectiv
 https://openjournals.library.sydney.edu.au/JCTP/article/view/20699
 
 ### Summary of the artefact
+
+
 This journal article compares two automated welfare systems. Australian Robodebt scheme used an average income calculation for each fortnight, resulting in a higher debt owed by casual workers (Tian 2024, p. 12). In China, Guangdong province monitors 4.05 million low-income people using data from 12 government departments (Tian 2024, p. 25). Nevertheless, an employee personally investigates each warning, and the system finds eligible people who did not apply for support (Tian 2024, pp. 25-26).
 
 ### Justification on why I chose the artefact
+
+
 This particular peer-reviewed article attracted me because it contradicted my assumption about the negative nature of ADM in the field of welfare; it shows that the technology could also serve people. However, I think Tian is too positive. Monitoring millions of people conflicts with the ACS duty to preserve 'the confidentiality and privacy of the information of others' (ACS 2014), and a Kantian would ask whether they agreed to it. The lesson I keep is online alerts with offline human verification (Tian 2024, p. 30).
 
 ## Artefact 6: In the news this term - public servants ask for a pause
@@ -82,12 +96,18 @@ This particular peer-reviewed article attracted me because it contradicted my as
 https://region.com.au/union-calls-for-immediate-pause-on-complex-automated-decision-making-in-public-service-agencies/996203/
 
 ### Summary of the artefact
+
+
 This news article from September 2026 explains how the Community and Public Sector Union is calling for an immediate moratorium on complex ADM in federal institutions until there are service-wide policies in place (Johnson 2026). Ninety-eight per cent of the members at the town hall meeting agreed to this motion, while over a third were unaware whether their agency implemented ADM.
 
 ### Justification on why I chose the artefact
+
+
 I chose it because it happened during this term and gives the view of the workers who operate these systems. If staff do not know ADM is being used, citizens cannot know either, which breaks the transparency principle from Week 2 (CQUniversity 2026b). Their action reflects the ACS Primacy of the Public Interest, which comes before 'personal, private and sectional interests' (ACS 2014), and the courage that Virtue Ethics expects. One day I may be one of those workers, and I hope I would speak up too.
 
 ## What I have learnt
+
+
 I now see ADM as a human responsibility, not only a technical one. In every artefact the harm came from people's choices: not updating a system, removing the human override, or ignoring who would be excluded. Issues relating to bias, transparency, and accountability that arose in Week 10 occurred in all the cases (CQUniversity 2026a). As an ICT professional, I would always want to know who may get hurt, keep a human in the loop, and speak out against any discriminatory system.
 
 ## References
