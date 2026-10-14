@@ -4,7 +4,6 @@ This set of artefacts reflects what I have learned regarding the ethical and soc
 Automated Decision Making refers to the use of data, algorithms and/or artificial intelligence in making decisions, such as whether someone is eligible for government payments (CQUniversity 2026a). In government, ADM helps the decision-makers or replaces them (Tian 2024, p. 6). Prior to this unit, I considered ADM to be purely a technical issue: as long as the coding was right, it was an ethically sound decision.
 
 ## Artefact 1: What is ADM, and where has it gone wrong?
-
 <img width="1466" height="885" alt="Screenshot 2026-10-14 at 12 47 07 AM" src="https://github.com/user-attachments/assets/2660bca3-03ab-4702-b665-ff5802884735" />
 
 
@@ -20,7 +19,6 @@ This is a recent post in the blog by Cambridge University Press by Yee-Fui Ng (2
 I chose it as my starting point because it shows ADM harm is a global pattern. Robodebt and the UK Post Office were our Week 10 case studies (CQUniversity 2026a), and Ng adds the United States. Her argument that these failures came from human choices changed my thinking, because I used to see them as software bugs. It connects to the Australian Computer Society (ACS) Competence value, to 'accept responsibility for your work' (ACS 2014). I cannot blame a system I helped build.
 
 ## Artefact 2: An Australian government system - the Targeted Compliance Framework
-
 <img width="579" height="769" alt="Screenshot 2026-10-14 at 12 51 24 AM" src="https://github.com/user-attachments/assets/903250d0-38a7-45fa-a371-0caa83e18ef7" />
 
 
@@ -37,7 +35,6 @@ This Commonwealth Ombudsman (2025) report investigates the Targeted Compliance F
 I chose it because it happened after the Robodebt Royal Commission, so it tests whether the government really learned. In Week 10 we asked who is responsible when ADM goes wrong (CQUniversity 2026a), and this primary source answers clearly: the agencies, not the software. From a Kantian view, people were treated as a means to efficient administration. It also breaches the ACS Competence value, to know the relevant legislation 'and act accordingly' (ACS 2014). When the law changes, the code must change too.
 
 ## Artefact 3: An Australian government system in use now - the aged care algorithm
-
 <img width="637" height="545" alt="Screenshot 2026-10-14 at 12 54 42 AM" src="https://github.com/user-attachments/assets/16b8c76b-1515-4fcb-aa2b-e76e8e3582a3" />
 
 
@@ -54,8 +51,6 @@ This ABC News (2026) video focuses on the Integrated Assessment Tool which is an
 I chose this video because it puts a human face on ADM. It made me question Act Utilitarianism: the tool may give consistent decisions for most people, yet the harm to a few is severe. It also fails contestability, one of Australia's AI Ethics Principles from Week 2, because the decision is so hard to challenge (CQUniversity 2026b). Watching it, I felt uneasy that a person's care could depend on a score no human was allowed to change.
 
 ## Artefact 4: A government system in another country - the United Kingdom
-
-
 <img width="1470" height="840" alt="Screenshot 2026-10-14 at 12 58 06 AM" src="https://github.com/user-attachments/assets/03f4c2ac-6607-4e22-b66b-d60a24106afd" />
 
 
@@ -69,7 +64,6 @@ This report by Amnesty International (2025) focuses on the United Kingdom's Depa
 I chose it for my overseas comparison because it takes a human rights perspective, while my Australian sources focus on whether decisions were lawful. In Week 2 we learned the UK guides AI with flexible principles (CQUniversity 2026b), and this report made me doubt that principles alone protect people. The difference principle of Rawls, based on the Social Contract Theory, stipulates that inequalities have to favour the least advantaged, but that system burdens them the most. This served as a reminder that I am designing for real people.
 
 ## Artefact 5: Comparing Australia and China
-
 <img width="1181" height="833" alt="Screenshot 2026-10-14 at 1 01 35 AM" src="https://github.com/user-attachments/assets/526e78b9-84f9-417a-9bf9-bff5ade05f8e" />
 
 
@@ -86,9 +80,6 @@ This journal article compares two automated welfare systems. Australian Robodebt
 This particular peer-reviewed article attracted me because it contradicted my assumption about the negative nature of ADM in the field of welfare; it shows that the technology could also serve people. However, I think Tian is too positive. Monitoring millions of people conflicts with the ACS duty to preserve 'the confidentiality and privacy of the information of others' (ACS 2014), and a Kantian would ask whether they agreed to it. The lesson I keep is online alerts with offline human verification (Tian 2024, p. 30).
 
 ## Artefact 6: In the news this term - public servants ask for a pause
-
-
-
 <img width="1110" height="829" alt="Screenshot 2026-10-14 at 1 12 20 AM" src="https://github.com/user-attachments/assets/c03398d7-8458-401c-b360-a5631eb4184f" />
 
 
